@@ -102,8 +102,10 @@ li {
   object-fit: cover;
 }
 
-a {
-  text-decoration: none;
-  margin-bottom: 2rem;
+i {
   color: var(--black);
+}
+
+a {
+  margin-bottom: 2rem;
 }
